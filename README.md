@@ -32,6 +32,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [NN Group](https://www.nngroup.com/articles/pm-research-plan/) - Project Management for User Research: The Plan.
 - [Interaction Design](https://www.interaction-design.org/literature/article/a-one-page-user-research-plan) - One Page User Research Plan.
 - [Branding5](https://www.branding5.com/) - Make a brand positioning as a basis for your designs.
+- [Hubble](https://www.hubble.team/guide/guide-to-usability-test-plans) - Guide to establishing a usability testing plan
 ###### User Interview
 - [NN Group](https://www.nngroup.com/articles/interviewing-users/) - Despite many weaknesses, interviews are a valuable method for exploratory user research.
 - [UXDesign.cc](https://uxdesign.cc/how-to-get-the-most-out-of-user-interviews-c5d0cd4499b5) - How to Get the Most Out of User Interviews.
@@ -70,6 +71,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Coglode](https://coglode.com/) - Bite-size behavioral research analysis.
 #### Testing
 - [User Testing](https://www.usertesting.com/) - Unlock customer insights and increase your revenue.
+- [Hubble](https://www.hubble.team/) - Test prototypes, product concepts and designs 
 - [Optimal Workshop](https://www.optimalworkshop.com/) - User Research Platform that helps you and your team make design decisions with confidence.
 - [Measure Success](https://www.sitepoint.com/how-do-you-measure-the-success-or-failure-of-your-ux-design/) - How Do You Measure the Success (or Failure) - of Your UX Design?.
 - [Lookback](https://lookback.io/) - Simple, powerful user research.
@@ -103,10 +105,12 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Intercom](https://blog.intercom.com/) - Design, Customer Success, & Startup Blog.
 - [UXDesign.cc](https://uxdesign.cc/) - User Experience, Usability, Product Design. Follow the UXDesign.cc.
 - [UX Reactions](https://uxreactions.com/) - Fun stuff.
+- [Hubble](https://www.hubble.team/guide/ux-research-tools) - An article highlighting the best tools for UX research.
+  
 #### Tools
 - [UX Recipe](https://uxrecipe.github.io/) - This project is a personal manifesto against the objectification of the term "UX".
 - [UX Checklist](https://uxchecklist.github.io/) - UX Project Checklist.
-- [UX Stackexchange](https://ux.stackexchange.com/) - UX Stack Exchange is a question and answer site.
+- [UX Stackexchange](https://ux.stackexchange.com/) - UX Stack Exchange is a question and answer sit
 
 ## UI
 #### Guidelines
